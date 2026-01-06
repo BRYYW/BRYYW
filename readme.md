@@ -3,28 +3,26 @@
 
 <!-- ================= About ================= -->
 Hi there 👋, I'm **BRYYW**  
-I'm a passionate full-stack & mobile developer exploring Web3, Roblox, Flutter, Laravel, and futuristic tech stacks.  
+Full-stack & mobile developer | Web3 & futuristic tech enthusiast  
 
 ---
 
-<!-- ================= Stats ================= -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRYYW&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYYW&layout=compact&theme=tokyonight)
+<!-- ================= GitHub Stats ================= -->
+<!-- Gunakan shields.io / GitHub Actions untuk stat stabil -->
+![Profile Views](https://komarev.com/ghpvc/?username=BRYYW&style=flat-square&color=4fc08d)
+![Followers](https://img.shields.io/github/followers/BRYYW?style=flat-square&color=blue&logo=github)
+
+### 📊 Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYYW&layout=compact&theme=radical)
+
+### 📈 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BRYYW&show_icons=true&theme=radical)
 
 ---
 
-<!-- ================= Streak ================= -->
-![GitHub Streak](https://streak-stats.demolab.com?user=BRYYW&theme=tokyonight)
-
----
-
-<!-- ================= Contribution Snake ================= -->
-![Contribution Snake](https://raw.githubusercontent.com/Platane/snk/master/resources/snake.svg)
-
----
-
-<!-- ================= Activity Graph ================= -->
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BRYYW&theme=react-dark&area=true)
+<!-- ================= Activity / Streak ================= -->
+### 🔥 GitHub Activity
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=BRYYW&theme=react-dark&area=true)
 
 ---
 
@@ -46,7 +44,7 @@ I'm a passionate full-stack & mobile developer exploring Web3, Roblox, Flutter, 
 
 ---
 
-### 📫 Connect with me
+### 🌐 Connect with me
 [![Website](https://img.shields.io/badge/Website-memoralabs.xyz-4fc08d?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://memoralabs.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-BRYYW-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/BRYYW)
 

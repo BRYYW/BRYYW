@@ -11,13 +11,15 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 [![Profile Views](https://komarev.com/ghpvc/?username=BRYYW&style=flat-square&color=4fc08d)](https://github.com/BRYYW)
 [![Followers](https://img.shields.io/github/followers/BRYYW?style=flat-square&color=blue&logo=github)](https://github.com/BRYYW)
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![BRYYW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRYYW&show_icons=true&theme=radical&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYYW&layout=compact&theme=radical)
 
 ---
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BRYYW&theme=react-dark&area=true)
+---
 
-### ⚡ Skills
+### Skills
 [![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=fff)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)](https://react.dev/)
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=fff)](https://vuejs.org/)
@@ -34,7 +36,7 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 
 ---
 
-### 🌐 Connect
+### Connect
 [![Website](https://img.shields.io/badge/Website-Baryyw.site-4fc08d?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://baryyw.site)
 [![GitHub](https://img.shields.io/badge/GitHub-BRYYW-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/BRYYW)
 

@@ -11,10 +11,6 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 [![Profile Views](https://komarev.com/ghpvc/?username=BRYYW&style=flat-square&color=4fc08d)](https://github.com/BRYYW)
 [![Followers](https://img.shields.io/github/followers/BRYYW?style=flat-square&color=blue&logo=github)](https://github.com/BRYYW)
 
-### GitHub Stats
-![BRYYW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRYYW&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYYW&layout=compact&theme=radical)
-
 ---
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=BRYYW&theme=react-dark&area=true)
 ---

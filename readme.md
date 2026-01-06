@@ -31,7 +31,7 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 ---
 
 ### Connect
-[![Website](https://img.shields.io/badge/Website-memoralabs.xyz-4fc08d?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://memoralabs.xyz)
+[![Website](https://img.shields.io/badge/Website-Baryyw,site-4fc08d?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://baryyw.site)
 [![GitHub](https://img.shields.io/badge/GitHub-BRYYW-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/BRYYW)
 
 ---

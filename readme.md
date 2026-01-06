@@ -1,6 +1,5 @@
 <!-- ================= Header ================= -->
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=220&section=header&text=BRYYW&fontSize=50&fontColor=ffffff&animation=twinkling)
-
+![Header](https://capsule-render.vercel.app/api?type=venom&height=200&text=I%20am%20BRYYW.&fontSize=70&color=0:8871e5,100:b678c4&stroke=b678c4)
 <!-- ================= About ================= -->
 Hi, I'm **BRYYW**  
 Full-stack & mobile developer | Web3 & futuristic tech enthusiast  

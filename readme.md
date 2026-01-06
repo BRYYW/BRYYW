@@ -7,13 +7,10 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 
 ---
 
-<!-- ================= GitHub Stats ================= -->
-![Profile Views](https://komarev.com/ghpvc/?username=BRYYW&style=flat-square&color=4fc08d)
-![Followers](https://img.shields.io/github/followers/BRYYW?style=flat-square&color=blue&logo=github)
-
-### GitHub Stats
-![BRYYW's GitHub stats](https://github-readme-stats.vercel.app/api?username=BRYYW&show_icons=true&theme=radical&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BRYYW&layout=compact&theme=radical)
+<!-- ================= GitHub Stats Alternative ================= -->
+[![BRYYW GitHub stats](https://img.shields.io/github/followers/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW)
+[![Total Repos](https://img.shields.io/github/repo-count/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW?tab=repositories)
+[![Top Language](https://img.shields.io/github/languages/top/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW)
 
 ---
 

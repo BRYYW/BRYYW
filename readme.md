@@ -41,7 +41,6 @@ I’m a passionate developer exploring Web3, Roblox, Laravel, and futuristic tec
 ---
 
 ### 📫 Connect with me
-[![Website](https://img.shields.io/badge/Website-memoralabs.xyz-4fc08d?style=for-the-badge&logo=google-chrome&logoColor=fff)](https://memoralabs.xyz)
 [![GitHub](https://img.shields.io/badge/GitHub-BRYYW-181717?style=for-the-badge&logo=github&logoColor=fff)](https://github.com/BRYYW)
 
 ---

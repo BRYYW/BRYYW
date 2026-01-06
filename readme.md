@@ -9,8 +9,7 @@ Full-stack & mobile developer | Web3 & futuristic tech enthusiast
 
 <!-- ================= GitHub Stats Alternative ================= -->
 [![BRYYW GitHub stats](https://img.shields.io/github/followers/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW)
-[![Total Repos](https://img.shields.io/github/repo-count/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW?tab=repositories)
-[![Top Language](https://img.shields.io/github/languages/top/BRYYW?style=for-the-badge&logo=github)](https://github.com/BRYYW)
+
 
 ---
 
